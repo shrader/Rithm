@@ -1,0 +1,3 @@
+[submodule "connect-four-oo/connect-four-oo/Rithm"]
+	path = connect-four-oo/connect-four-oo/Rithm
+	url = https://github.com/shrader/Rithm.git
