@@ -10,6 +10,8 @@ const HEIGHT = 6;
 
 /// This is just a test
 
+//The test worked
+
 let currPlayer = 1; // active player: 1 or 2
 let board = []; // array of rows, each row is array of cells  (board[y][x])
 
